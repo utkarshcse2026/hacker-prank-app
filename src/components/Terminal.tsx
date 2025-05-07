@@ -166,7 +166,7 @@ const Terminal: React.FC = () => {
         <div className="hacker-cursor"></div>
       </div>
       <div className="fixed bottom-4 left-0 right-0 text-center text-xs text-hacker-dim p-2">
-        [HackTyper Terminal] | Keep pressing keys to inject more code
+        [Hacker prank tool] | Keep pressing keys to inject more code | Utkarsh Aggarwal
       </div>
     </div>
   );
